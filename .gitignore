@@ -1,3 +1,21 @@
 *.log
 *.htaccess
 /cache
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+# ignore Editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+# ignore all files starting with . or ~
+.*
+~*
+# track these files, if they exist
+!.gitignore
