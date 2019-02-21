@@ -1,0 +1,13 @@
+.info{ font-size:12px; color:#AAAAAA; padding-bottom:0px !important;}
+
+div.q div.hover div.in p {
+    font-size: 10px;
+}
+
+@media screen and (min-width: 650px) {
+   .contactsblokright {width: 48%; overflow: auto; padding-left: 30px; border-left: 4px  solid  #46BF89; margin-bottom:20px;   }
+   .contactsblokleft {width: 48%; float:left}}
+
+  @media screen and (max-width: 640px) {
+   .contactsblokright {padding-left: 10px; padding-right:10px;   }
+   .contactsblokleft { padding-left:10px; padding-right:10px;}}

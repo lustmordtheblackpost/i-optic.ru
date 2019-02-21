@@ -1,0 +1,15 @@
+|| TO ||:panyuta.84@mail.ru|| subject ||:Регистрация на сайте https://i-optic.ru|| html ||:This is a MIME encoded message.
+
+--np5bdbea553324e
+Content-type: text/plain;charset=utf-8
+
+Вы успешно прошли регистрацию на сайте I-OPTIC.RU - Онлайн оптика (i-optic.ru)!Логин: panyuta.84@mail.ruПароль: Qwerty2612317Для завершения регистрации вам нужно перейти по следующей ссылке https://i-optic.ru/?activatelogin=3e36bf30c042cbfaaec7a20d4854a479Спасибо за интерес к нашему магазину!Администрация сайта I-OPTIC.RU - Онлайн оптика (i-optic.ru)P.S.: Не отвечайте на это письмо. Оно сформировано автоматической системой регистрации.
+
+--np5bdbea553324e
+Content-type: text/html;charset=utf-8
+
+Вы успешно прошли регистрацию на сайте <a href="https://i-optic.ru" target=_BLANK>I-OPTIC.RU - Онлайн оптика (i-optic.ru)</a>!<br><br>Логин: <b>panyuta.84@mail.ru</b><br>Пароль: <b>Qwerty2612317</b><br><br>Для завершения регистрации вам нужно перейти по следующей ссылке <a href="https://i-optic.ru/?activatelogin=3e36bf30c042cbfaaec7a20d4854a479" target=_BLANK>https://i-optic.ru/?activatelogin=3e36bf30c042cbfaaec7a20d4854a479</a><br><br>Спасибо за интерес к нашему магазину!<br><br>Администрация сайта <a href="https://i-optic.ru" target=_BLANK>I-OPTIC.RU - Онлайн оптика (i-optic.ru)</a><br><br>P.S.: Не отвечайте на это письмо. Оно сформировано автоматической системой регистрации.
+
+--np5bdbea553324e--|| headers ||:From: no-reply@i-optic.ru
+Content-type: text/html; charset=utf-8
+X-Mailer: PHP/5.6.33-0+deb8u1|| returnPath ||:

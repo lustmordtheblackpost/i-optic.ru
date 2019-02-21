@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /fancy/
+Disallow: /base/
+Disallow: /javascript_files/
+Disallow: /admin/
+Host: i-optic.ru
